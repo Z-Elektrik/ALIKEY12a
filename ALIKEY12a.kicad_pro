@@ -516,7 +516,9 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "GND_Bar": "rgb(0, 0, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
@@ -528,7 +530,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Export/ALIKEY12a.step",
       "svg": "",
       "vrml": ""
     },
